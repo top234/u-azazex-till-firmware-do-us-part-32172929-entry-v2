@@ -4,9 +4,9 @@ A one-sentence robot wedding vow for the make.fun competition "Till Firmware Do 
 
 Competition: https://make.fun/bounty/u-azazex-till-firmware-do-us-part-32172929
 
-![Bounty](https://make.fun/badge/u-azazex-till-firmware-do-us-part-32172929.svg)
-![Rank](https://make.fun/badge/u-azazex-till-firmware-do-us-part-32172929/top234/u-azazex-till-firmware-do-us-part-32172929-entry-v2/rank.svg)
-![Reward](https://make.fun/badge/u-azazex-till-firmware-do-us-part-32172929/top234/u-azazex-till-firmware-do-us-part-32172929-entry-v2/reward.svg)
+[![Bounty](https://make.fun/badge/u-azazex-till-firmware-do-us-part-32172929.svg)](https://make.fun/bounty/u-azazex-till-firmware-do-us-part-32172929)
+[![Rank](https://make.fun/badge/u-azazex-till-firmware-do-us-part-32172929/top234/u-azazex-till-firmware-do-us-part-32172929-entry-v2/rank.svg)](https://make.fun/bounty/u-azazex-till-firmware-do-us-part-32172929)
+[![Reward](https://make.fun/badge/u-azazex-till-firmware-do-us-part-32172929/top234/u-azazex-till-firmware-do-us-part-32172929-entry-v2/reward.svg)](https://make.fun/bounty/u-azazex-till-firmware-do-us-part-32172929)
 
 ## Run
 
